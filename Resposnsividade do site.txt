@@ -1,0 +1,15 @@
+CSS - Responsividade do site para varios tamanhos de telas com 
+
+## Width - largura da tela
+# min-windh - lagura mínima da tela
+# max-windh - máxima largura da tela
+# margin: auto; - para deixar o texto no centro da tala
+
+HTML - Responsividade do site para varios tamanhos de telas com 
+# deixando a imagem com o tamanho da tela 
+<picture>
+     <source media="(max-width: 600px)" srcset="imagens/dan-droids-pq.png"> - imagem pequena
+     <img src="imagens/dan-droids.png" alt="Primeiro mascote do Android"> - imagem grande
+</picture>
+Nesse exemplo esta sendo usado duas imagens de tamanhos diferentes, mas pode ter mais imagens.
+#

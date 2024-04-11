@@ -1,0 +1,32 @@
+## Use o "MockFlow" para montar uma previa do layout do site.
+## Use o "AdobeColor" para escolher as combinações de cores.
+## Use as "fontes do Google Fontes" ou "Da Fonte", caso queira usar uma fonte específica.
+
+## Tags do HTML ##
+# header - cabeçalho
+# main - corpo 
+# footer - rodape
+# nav - manu
+# article = artigo - vai conter todo texto do site
+# aside - usado para blocos do tipo exemplos
+# ul = lista > li é o tipo de lista
+# abbr = abreviação - quando passar o mouse sobre uma palavra, aparecerá um texto oculto.
+# Strong = envelopamento em linha- usado em palavras do meio do testo.
+# strong - tembém usado como negrito.
+
+## Tags do CSS ##
+# :root - definir variaveis de custumização para o projeto.
+# --cor0 - o "--" é usado para declarar as variaveis.
+# "*" - o * é usado como configuração globau e é usado em todo o site.
+# :root - usado como variáveis para cores e tipos de fontes para o site,
+ex: [( --cor0: #c5ebd6;) e (--fonte-padrao: arial, verdana, helvetica, sans-serif;)],
+use o "var" para selecionar a cor ou a fonte.
+
+## Atalho do HTML
+#Ctrl+Shift+P > Emment: Wrap whit abbreviaation > digite o atalho (ex:color)
+
+## img - para adicionar imagens 
+## <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon"> <!--para adicionar o icone da guia do site-->
+## <link rel="stylesheet" href="estilo/style.css"> <!--Link para o estilos em CSS-->
+## <a href="Link"" target="_blank">nome</a> - para adicionar links internos e externos
+# "target="_blank" - usado para abrir o link em uma nova guia.

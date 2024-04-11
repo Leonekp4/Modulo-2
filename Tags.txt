@@ -1,0 +1,59 @@
+<!-- --!> - Comentário em HTML
+/* */ - Comentário em CSS
+Recomendação para usar as o tamanho das em "em" ou "px". 16px = 1em.
+"Google fontes" - para encontras diferentes tipos de fontes.
+"dafont" - Site para baixar fontes que não tem no Google fontes.
+"text-align" no css, é usador da centralizar os testos, mover para os lados e etc.
+
+Em HTML o identificador é "id" e em CSS o identificador é #, portanto "id/HTML = #/CSS" - é usado para um elemento
+Em HTML é "class" = em CSS é "." - é usado para varios elementos
+"div com :" = "div:" é usado apara ações, tipo passar o mouse sobre um elemanto e ele mudar de cor
+
+css
+backgroud-color: cor de fundo da página 
+font-family: o tipo da fonte
+height - altura
+widt - largura
+border - é a borda da caixa de um texto
+padding - configuração da caixa
+margin - configuração da caixa
+autline - traçado da caixa
+atalho- Ctrl+Shift+p > Emment: Wrap whit abbreviaation > digite o atalho (ex:color)
+
+target="_blank" - para abrir o link em uma nova guia
+
+->simbolos do CSS dos seletores personalizados
+# = id
+. = class
+: = pseudo-class
+:: = pseudo-element
+> = clildren
+
+## shotrend das caixas 
+O border 1,2,3 é igual ao boder 4. usar a mesma ordem:
+	 1   border-width: 10px;
+         2   border-style: solid;
+         3   border-color: darkgreen;
+         4   border: 10px solid darkgreen;
+
+O padding 1,2,3,4 é igual ao pedding 5. usar a mesma ordem:
+         1   padding-top: 10px;
+         2   padding-right: 10px;
+         3   padding-bottom: 10px;
+         4   padding-left: 10px;
+         5   padding: 10px 10px 10px 10px;
+
+O margin 1,2,3,4 é igual ao margin 5. usar a mesma ordem:
+         1   margin-top: 10px;
+         2   margin-right: 40px;
+         3   margin-bottom: 40px;
+         4   margin-left: 10px;
+         5   margin: 20px 20px 40px 10px;
+
+O outline 1,2,3 é igual ao outline 4. usar a mesma ordem:
+         1   outline-width: 5px;
+         2   outline-style: dashed;
+         3   outline-color: hotpink ;
+         4   outline: 5px dashed hotpink;
+
+
